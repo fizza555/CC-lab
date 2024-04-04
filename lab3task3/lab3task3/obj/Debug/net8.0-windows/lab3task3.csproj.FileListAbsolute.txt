@@ -1,0 +1,16 @@
+C:\Users\MOON COMPUTERS\source\repos\lab3task3\lab3task3\bin\Debug\net8.0-windows\lab3task3.exe
+C:\Users\MOON COMPUTERS\source\repos\lab3task3\lab3task3\bin\Debug\net8.0-windows\lab3task3.deps.json
+C:\Users\MOON COMPUTERS\source\repos\lab3task3\lab3task3\bin\Debug\net8.0-windows\lab3task3.runtimeconfig.json
+C:\Users\MOON COMPUTERS\source\repos\lab3task3\lab3task3\bin\Debug\net8.0-windows\lab3task3.dll
+C:\Users\MOON COMPUTERS\source\repos\lab3task3\lab3task3\bin\Debug\net8.0-windows\lab3task3.pdb
+C:\Users\MOON COMPUTERS\source\repos\lab3task3\lab3task3\obj\Debug\net8.0-windows\lab3task3.Form1.resources
+C:\Users\MOON COMPUTERS\source\repos\lab3task3\lab3task3\obj\Debug\net8.0-windows\lab3task3.csproj.GenerateResource.cache
+C:\Users\MOON COMPUTERS\source\repos\lab3task3\lab3task3\obj\Debug\net8.0-windows\lab3task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOON COMPUTERS\source\repos\lab3task3\lab3task3\obj\Debug\net8.0-windows\lab3task3.AssemblyInfoInputs.cache
+C:\Users\MOON COMPUTERS\source\repos\lab3task3\lab3task3\obj\Debug\net8.0-windows\lab3task3.AssemblyInfo.cs
+C:\Users\MOON COMPUTERS\source\repos\lab3task3\lab3task3\obj\Debug\net8.0-windows\lab3task3.csproj.CoreCompileInputs.cache
+C:\Users\MOON COMPUTERS\source\repos\lab3task3\lab3task3\obj\Debug\net8.0-windows\lab3task3.dll
+C:\Users\MOON COMPUTERS\source\repos\lab3task3\lab3task3\obj\Debug\net8.0-windows\refint\lab3task3.dll
+C:\Users\MOON COMPUTERS\source\repos\lab3task3\lab3task3\obj\Debug\net8.0-windows\lab3task3.pdb
+C:\Users\MOON COMPUTERS\source\repos\lab3task3\lab3task3\obj\Debug\net8.0-windows\lab3task3.genruntimeconfig.cache
+C:\Users\MOON COMPUTERS\source\repos\lab3task3\lab3task3\obj\Debug\net8.0-windows\ref\lab3task3.dll
