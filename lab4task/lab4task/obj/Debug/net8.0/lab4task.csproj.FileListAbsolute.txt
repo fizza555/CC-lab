@@ -1,0 +1,14 @@
+C:\Users\MOON COMPUTERS\source\repos\lab4task\lab4task\obj\Debug\net8.0\lab4task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOON COMPUTERS\source\repos\lab4task\lab4task\obj\Debug\net8.0\lab4task.AssemblyInfoInputs.cache
+C:\Users\MOON COMPUTERS\source\repos\lab4task\lab4task\obj\Debug\net8.0\lab4task.AssemblyInfo.cs
+C:\Users\MOON COMPUTERS\source\repos\lab4task\lab4task\obj\Debug\net8.0\lab4task.csproj.CoreCompileInputs.cache
+C:\Users\MOON COMPUTERS\source\repos\lab4task\lab4task\bin\Debug\net8.0\lab4task.exe
+C:\Users\MOON COMPUTERS\source\repos\lab4task\lab4task\bin\Debug\net8.0\lab4task.deps.json
+C:\Users\MOON COMPUTERS\source\repos\lab4task\lab4task\bin\Debug\net8.0\lab4task.runtimeconfig.json
+C:\Users\MOON COMPUTERS\source\repos\lab4task\lab4task\bin\Debug\net8.0\lab4task.dll
+C:\Users\MOON COMPUTERS\source\repos\lab4task\lab4task\bin\Debug\net8.0\lab4task.pdb
+C:\Users\MOON COMPUTERS\source\repos\lab4task\lab4task\obj\Debug\net8.0\lab4task.dll
+C:\Users\MOON COMPUTERS\source\repos\lab4task\lab4task\obj\Debug\net8.0\refint\lab4task.dll
+C:\Users\MOON COMPUTERS\source\repos\lab4task\lab4task\obj\Debug\net8.0\lab4task.pdb
+C:\Users\MOON COMPUTERS\source\repos\lab4task\lab4task\obj\Debug\net8.0\lab4task.genruntimeconfig.cache
+C:\Users\MOON COMPUTERS\source\repos\lab4task\lab4task\obj\Debug\net8.0\ref\lab4task.dll
