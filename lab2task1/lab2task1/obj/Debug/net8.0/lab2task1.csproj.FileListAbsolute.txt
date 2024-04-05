@@ -1,0 +1,14 @@
+C:\Users\MOON COMPUTERS\source\repos\lab2task1\lab2task1\bin\Debug\net8.0\lab2task1.exe
+C:\Users\MOON COMPUTERS\source\repos\lab2task1\lab2task1\bin\Debug\net8.0\lab2task1.deps.json
+C:\Users\MOON COMPUTERS\source\repos\lab2task1\lab2task1\bin\Debug\net8.0\lab2task1.runtimeconfig.json
+C:\Users\MOON COMPUTERS\source\repos\lab2task1\lab2task1\bin\Debug\net8.0\lab2task1.dll
+C:\Users\MOON COMPUTERS\source\repos\lab2task1\lab2task1\bin\Debug\net8.0\lab2task1.pdb
+C:\Users\MOON COMPUTERS\source\repos\lab2task1\lab2task1\obj\Debug\net8.0\lab2task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOON COMPUTERS\source\repos\lab2task1\lab2task1\obj\Debug\net8.0\lab2task1.AssemblyInfoInputs.cache
+C:\Users\MOON COMPUTERS\source\repos\lab2task1\lab2task1\obj\Debug\net8.0\lab2task1.AssemblyInfo.cs
+C:\Users\MOON COMPUTERS\source\repos\lab2task1\lab2task1\obj\Debug\net8.0\lab2task1.csproj.CoreCompileInputs.cache
+C:\Users\MOON COMPUTERS\source\repos\lab2task1\lab2task1\obj\Debug\net8.0\lab2task1.dll
+C:\Users\MOON COMPUTERS\source\repos\lab2task1\lab2task1\obj\Debug\net8.0\refint\lab2task1.dll
+C:\Users\MOON COMPUTERS\source\repos\lab2task1\lab2task1\obj\Debug\net8.0\lab2task1.pdb
+C:\Users\MOON COMPUTERS\source\repos\lab2task1\lab2task1\obj\Debug\net8.0\lab2task1.genruntimeconfig.cache
+C:\Users\MOON COMPUTERS\source\repos\lab2task1\lab2task1\obj\Debug\net8.0\ref\lab2task1.dll
