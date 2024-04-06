@@ -1,0 +1,14 @@
+C:\Users\MOON COMPUTERS\source\repos\labmidquestion2\labmidquestion2\bin\Debug\net8.0\labmidquestion2.exe
+C:\Users\MOON COMPUTERS\source\repos\labmidquestion2\labmidquestion2\bin\Debug\net8.0\labmidquestion2.deps.json
+C:\Users\MOON COMPUTERS\source\repos\labmidquestion2\labmidquestion2\bin\Debug\net8.0\labmidquestion2.runtimeconfig.json
+C:\Users\MOON COMPUTERS\source\repos\labmidquestion2\labmidquestion2\bin\Debug\net8.0\labmidquestion2.dll
+C:\Users\MOON COMPUTERS\source\repos\labmidquestion2\labmidquestion2\bin\Debug\net8.0\labmidquestion2.pdb
+C:\Users\MOON COMPUTERS\source\repos\labmidquestion2\labmidquestion2\obj\Debug\net8.0\labmidquestion2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOON COMPUTERS\source\repos\labmidquestion2\labmidquestion2\obj\Debug\net8.0\labmidquestion2.AssemblyInfoInputs.cache
+C:\Users\MOON COMPUTERS\source\repos\labmidquestion2\labmidquestion2\obj\Debug\net8.0\labmidquestion2.AssemblyInfo.cs
+C:\Users\MOON COMPUTERS\source\repos\labmidquestion2\labmidquestion2\obj\Debug\net8.0\labmidquestion2.csproj.CoreCompileInputs.cache
+C:\Users\MOON COMPUTERS\source\repos\labmidquestion2\labmidquestion2\obj\Debug\net8.0\labmidquestion2.dll
+C:\Users\MOON COMPUTERS\source\repos\labmidquestion2\labmidquestion2\obj\Debug\net8.0\refint\labmidquestion2.dll
+C:\Users\MOON COMPUTERS\source\repos\labmidquestion2\labmidquestion2\obj\Debug\net8.0\labmidquestion2.pdb
+C:\Users\MOON COMPUTERS\source\repos\labmidquestion2\labmidquestion2\obj\Debug\net8.0\labmidquestion2.genruntimeconfig.cache
+C:\Users\MOON COMPUTERS\source\repos\labmidquestion2\labmidquestion2\obj\Debug\net8.0\ref\labmidquestion2.dll

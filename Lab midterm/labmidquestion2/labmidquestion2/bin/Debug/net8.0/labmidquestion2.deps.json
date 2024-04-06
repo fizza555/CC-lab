@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "labmidquestion2/1.0.0": {
+        "runtime": {
+          "labmidquestion2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "labmidquestion2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
