@@ -1,0 +1,14 @@
+C:\Users\MOON COMPUTERS\source\repos\labmid3\labmid3\bin\Debug\net8.0\labmid3.exe
+C:\Users\MOON COMPUTERS\source\repos\labmid3\labmid3\bin\Debug\net8.0\labmid3.deps.json
+C:\Users\MOON COMPUTERS\source\repos\labmid3\labmid3\bin\Debug\net8.0\labmid3.runtimeconfig.json
+C:\Users\MOON COMPUTERS\source\repos\labmid3\labmid3\bin\Debug\net8.0\labmid3.dll
+C:\Users\MOON COMPUTERS\source\repos\labmid3\labmid3\bin\Debug\net8.0\labmid3.pdb
+C:\Users\MOON COMPUTERS\source\repos\labmid3\labmid3\obj\Debug\net8.0\labmid3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOON COMPUTERS\source\repos\labmid3\labmid3\obj\Debug\net8.0\labmid3.AssemblyInfoInputs.cache
+C:\Users\MOON COMPUTERS\source\repos\labmid3\labmid3\obj\Debug\net8.0\labmid3.AssemblyInfo.cs
+C:\Users\MOON COMPUTERS\source\repos\labmid3\labmid3\obj\Debug\net8.0\labmid3.csproj.CoreCompileInputs.cache
+C:\Users\MOON COMPUTERS\source\repos\labmid3\labmid3\obj\Debug\net8.0\labmid3.dll
+C:\Users\MOON COMPUTERS\source\repos\labmid3\labmid3\obj\Debug\net8.0\refint\labmid3.dll
+C:\Users\MOON COMPUTERS\source\repos\labmid3\labmid3\obj\Debug\net8.0\labmid3.pdb
+C:\Users\MOON COMPUTERS\source\repos\labmid3\labmid3\obj\Debug\net8.0\labmid3.genruntimeconfig.cache
+C:\Users\MOON COMPUTERS\source\repos\labmid3\labmid3\obj\Debug\net8.0\ref\labmid3.dll
