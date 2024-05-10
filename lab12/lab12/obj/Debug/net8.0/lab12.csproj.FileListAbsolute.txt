@@ -1,0 +1,14 @@
+C:\Users\MOON COMPUTERS\source\repos\lab12\lab12\obj\Debug\net8.0\lab12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOON COMPUTERS\source\repos\lab12\lab12\obj\Debug\net8.0\lab12.AssemblyInfoInputs.cache
+C:\Users\MOON COMPUTERS\source\repos\lab12\lab12\obj\Debug\net8.0\lab12.AssemblyInfo.cs
+C:\Users\MOON COMPUTERS\source\repos\lab12\lab12\obj\Debug\net8.0\lab12.csproj.CoreCompileInputs.cache
+C:\Users\MOON COMPUTERS\source\repos\lab12\lab12\bin\Debug\net8.0\lab12.exe
+C:\Users\MOON COMPUTERS\source\repos\lab12\lab12\bin\Debug\net8.0\lab12.deps.json
+C:\Users\MOON COMPUTERS\source\repos\lab12\lab12\bin\Debug\net8.0\lab12.runtimeconfig.json
+C:\Users\MOON COMPUTERS\source\repos\lab12\lab12\bin\Debug\net8.0\lab12.dll
+C:\Users\MOON COMPUTERS\source\repos\lab12\lab12\bin\Debug\net8.0\lab12.pdb
+C:\Users\MOON COMPUTERS\source\repos\lab12\lab12\obj\Debug\net8.0\lab12.dll
+C:\Users\MOON COMPUTERS\source\repos\lab12\lab12\obj\Debug\net8.0\refint\lab12.dll
+C:\Users\MOON COMPUTERS\source\repos\lab12\lab12\obj\Debug\net8.0\lab12.pdb
+C:\Users\MOON COMPUTERS\source\repos\lab12\lab12\obj\Debug\net8.0\lab12.genruntimeconfig.cache
+C:\Users\MOON COMPUTERS\source\repos\lab12\lab12\obj\Debug\net8.0\ref\lab12.dll
